@@ -4,7 +4,7 @@ import streamlit as st
 club_info = {
     "name": "Campus Financial Literacy Club",
     "day": "Thursday",
-    "time": "3pm",
+    "time": "4pm",
 }
 # Added one additional activity for the change check. 
 activities = [
